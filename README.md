@@ -37,6 +37,10 @@ Programador · **C++ (Win32) · Python · JS/TS · Web**
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ngro-prog&show_icons=true&hide_border=true&theme=transparent&title_color=0078D6&icon_color=0078D6" alt="Estadísticas de GitHub" />
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngro-prog&layout=compact&hide_border=true&theme=transparent&title_color=0078D6" alt="Lenguajes" />
 
+<br>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ngro-prog&hide_border=true&theme=transparent&ring=0078D6&fire=0078D6&currStreakLabel=0078D6" alt="Racha de contribuciones" />
+
 </div>
 
 ---
