@@ -28,13 +28,6 @@ Programador · **C++ (Win32) · Python · Java · JS/TS · Web**
 
 <br>
 
-![Claude](https://img.shields.io/badge/Claude-2a1518?style=flat-square&logo=anthropic&logoColor=8a3a45)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-2a1518?style=flat-square&logo=openai&logoColor=8a3a45)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-2a1518?style=flat-square&logo=deepseek&logoColor=8a3a45)
-![Copilot](https://img.shields.io/badge/Copilot-2a1518?style=flat-square&logo=githubcopilot&logoColor=8a3a45)
-
-<br>
-
 ![Windows](https://img.shields.io/badge/Windows-2a1518?style=flat-square&logo=windows&logoColor=8a3a45)
 ![Linux](https://img.shields.io/badge/Linux-2a1518?style=flat-square&logo=linux&logoColor=8a3a45)
 ![Fedora](https://img.shields.io/badge/Fedora-2a1518?style=flat-square&logo=fedora&logoColor=8a3a45)
