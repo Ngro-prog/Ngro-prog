@@ -1,7 +1,9 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D6,100:58A6FF&height=180&section=header&text=Ben.Pz&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Ngro-prog&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Ben.Pz" />
+
 <div align="center">
 
 <a href="https://github.com/Ngro-prog">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=0078D6&center=true&vCenter=true&width=380&height=45&lines=Ben.Pz;Ngro-prog" alt="Ben.Pz" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=0078D6&center=true&vCenter=true&width=560&height=40&lines=C%2B%2B+%7C+Win32+%7C+Python+%7C+JS%2FTS+%7C+Web;Herramientas+de+escritorio+sin+dependencias;Windows+%C2%B7+ligero+%C2%B7+hecho+a+mano" alt="Ben.Pz" />
 </a>
 
 <br>
@@ -32,6 +34,20 @@ Programador · **C++ (Win32) · Python · JS/TS · Web**
 
 ---
 
+## Actividad
+
+<div align="center">
+
+<img src="docs/pingpong.gif" width="100%" alt="Ping-pong" />
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/Ngro-prog/Ngro-prog/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribuciones" />
+
+</div>
+
+---
+
 <div align="center">
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ngro-prog&show_icons=true&hide_border=true&theme=transparent&title_color=0078D6&icon_color=0078D6" alt="Estadísticas de GitHub" />
@@ -44,6 +60,8 @@ Programador · **C++ (Win32) · Python · JS/TS · Web**
 </div>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0078D6&height=120&section=footer" width="100%" alt="" />
 
 <div align="center">
 
